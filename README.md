@@ -6,9 +6,9 @@ Each day begins with learning new concepts and ends with making a project based 
 Concepts learned - printing, debugging, string manipulation, comment, input, variables
 ## Day-2: Tip Calculator Project
 Concepts learned - Data types, type conversion/type casting, operators, number manipulation, f-strings
-Python Pizza delivery
 ## Day-3: Treasure Island Game
 Concepts learned - Conditional statements, logical operator, code blocks, scope, nesting
+Python Pizza delivery
 ## Day-4: Rock Paper Scissors
 Concepts learned - Randomization, lists, nested lists
 ## Day-5: Password Generator Project
