@@ -31,4 +31,6 @@ Concepts learned -  Local and Global Scope, modifying global variable, constants
 Concepts learned - Debbuging
 ## Day-14: Higher or Lower Game
 Concepts learned - Higher Lower Game(also added way to clear screen)
+## Day-15: THe Coffee Maker Machine Project
+Concepts learned -
 
